@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dimethilcadmium
+- 👀 I’m interested in cryptocurrency
+- 🌱 I’m currently learning php, java, python
